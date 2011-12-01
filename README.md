@@ -13,11 +13,15 @@ Parts list
 * [2x 5ft plug&play 5mm aqua el wire] (http://shopping.netsuite.com/s.nl/c.ACCT88394/it.A/id.862/.f?sc=2&category=194) $30
 * [1x sound activated EL driver] (http://shopping.netsuite.com/s.nl/c.ACCT88394/it.A/id.781/.f) $10
 * [2x EVA foam cut ears, see ear_template.pdf] (http://www.foamorder.com/custom_cuts.php?product=closedcell&shape=24) $40
+* [Weatherstrip foam for top of hard hat] (http://www.homedepot.com/h_d1/N-5yc1v/R-100355591/h_d2/ProductDisplay?langId=-1&storeId=10051&catalogId=10053) $5
 * [Large battery, 6 hrs!] (http://www.hypershop.com/HyperJuice-External-Battery-for-MacBook-iPad-60Wh-p/mbp-060.htm) $160               
 * [Dual core Netbook] (http://www.newegg.com/Product/Product.aspx?Item=N82E16834230048) $299
 * [Madrix LED Driver Software] (http://www.madrix.com/) Free w/ limitations or with Madrix Start Key $500
   * See mau5head.ms2, maueyes.png & maumask.png should be saved to your desktop
-
+* cable guide
+* 7" black ethernet cable
+* misc wire
+* misc nuts & bolts
 
 
 Tools list
@@ -31,7 +35,3 @@ Tools list
 * Silver Sharpie marker for marking dots
 * Fabric measuring tape for plotting dots
 * Hole punch to place dots on measuring tape
-* cable guide
-* 7" black ethernet cable
-* misc wire
-* misc nuts & bolts
