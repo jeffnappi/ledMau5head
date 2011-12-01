@@ -22,6 +22,7 @@ Parts list
 * 7" black ethernet cable
 * misc wire
 * misc nuts & bolts
+* small backpack, I used a camelbak
 
 
 Tools list
