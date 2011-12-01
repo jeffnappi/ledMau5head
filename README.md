@@ -6,6 +6,7 @@ Parts list
 
 * [14" Acrylic globe] (http://www.superiorlighting.com/Plastic_Globe_Neckless_Opening_p/02024sa-14.htm?zmam=8564918&zmas=2&zmac=37&zmap=02024SA-14) ~$40
 * [168 5V WS2801 LED Pixels special ordered from Ray Wu with 4cm spacing] (http://www.aliexpress.com/fm-store/701799/209889132-449802558/12mm-WS2801-pixel-module-IP67-DC5V-input-full-color.html) ~$140
+  * 168 pixels fits nicely in a single DMX universe, keeps power usage realistic, and keeps the weight down. More pixels could be used.
 * [San Devices E680 Pixel controler] (http://www.sandevices.com/documents/E680doc.pdf) $40 kit or $150 prebuilt
   * Order from Jim St. John (jim@jim2.com)
 * [5x 40mm fans] (http://www.amazon.com/Scythe-MINI-KAZE-ULTRA-Silent/dp/B0016CMCBG/ref=sr_1_1?ie=UTF8&qid=1322757440&sr=8-1) $25
