@@ -1,6 +1,8 @@
 LED mau5head build kit
 ======================
 
+[Video of build / in action] (http://www.youtube.com/watch?v=-BeGx2w-vIE)
+
 Parts list
 ----------
 
