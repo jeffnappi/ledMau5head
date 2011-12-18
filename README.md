@@ -22,7 +22,7 @@ Parts list
 * [Madrix LED Driver Software] (http://www.madrix.com/) Free w/ limitations or with Madrix Start Key $500
   * See mau5head.ms2, maueyes.png & maumask.png should be saved to your desktop
 * cable guide
-* 7" black ethernet cable
+* 7' black ethernet cable
 * misc wire
 * misc nuts & bolts
 * small backpack, I used a camelbak
