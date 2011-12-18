@@ -31,8 +31,8 @@ Parts list
 Tools list
 ----------
 * Dremel w/ carbide cutting blade for cutting out neck, hard hat
-* Unibit 3/16" to 1/2", for LED holes @ 7/16" (http://www.amazon.com/Irwin-UniBit-16-Inch-2-Inch-4-Inch/dp/B00004THYY/ref=sr_1_2?ie=UTF8&qid=1322763487&sr=8-2)
-* 1.5" hole saw for cutting out fan holes (http://www.homedepot.com/Tools-Hardware/h_d1/N-5yc1vZarnkZ12kx/R-202256373/h_d2/ProductDisplay?langId=-1&storeId=10051&catalogId=10053)
+* [Unibit 3/16" to 1/2", for LED holes @ 7/16"] (http://www.amazon.com/Irwin-UniBit-16-Inch-2-Inch-4-Inch/dp/B00004THYY/ref=sr_1_2?ie=UTF8&qid=1322763487&sr=8-2)
+* [1.5" hole saw for cutting out fan holes] (http://www.homedepot.com/Tools-Hardware/h_d1/N-5yc1vZarnkZ12kx/R-202256373/h_d2/ProductDisplay?langId=-1&storeId=10051&catalogId=10053)
 * Soldering iron
 * Solder
 * USB connector for 5v power
