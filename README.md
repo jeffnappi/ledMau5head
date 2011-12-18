@@ -35,6 +35,8 @@ Tools list
 * [1.5" hole saw for cutting out fan holes] (http://www.homedepot.com/Tools-Hardware/h_d1/N-5yc1vZarnkZ12kx/R-202256373/h_d2/ProductDisplay?langId=-1&storeId=10051&catalogId=10053)
 * Soldering iron
 * Solder
+* Heat shrink various sizes
+* Heat gun
 * USB connector for 5v power
 * Silver Sharpie marker for marking dots
 * Fabric measuring tape for plotting dots
