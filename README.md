@@ -28,7 +28,7 @@ Parts list
 * small backpack, I used a camelbak
 
 
-Tools list
+Tool list
 ----------
 * Dremel w/ carbide cutting blade for cutting out neck, hard hat
 * [Unibit 3/16" to 1/2", for LED holes @ 7/16"] (http://www.amazon.com/Irwin-UniBit-16-Inch-2-Inch-4-Inch/dp/B00004THYY/ref=sr_1_2?ie=UTF8&qid=1322763487&sr=8-2)
